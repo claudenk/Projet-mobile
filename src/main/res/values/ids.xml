@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="register_button" type="id" />
+    <item name="date" type="id" />
+    <item name="montant" type="id" />
+    <item name="statut" type="id" />
+    <item name="noteRestaurant" type="id" />
+    <item name="libelle" type="id" />
+    <item name="forfaitAdministratif" type="id" />
+    <item name="nomsInvites" type="id" />
+    <item name="justificatif" type="id" />
+    <item name="editTextType" type="id" />
+    <item name="editTextNomSociete" type="id" />
+    <item name="buttonSave" type="id" />
+    <item name="dateTextView" type="id" />
+    <item name="montantTextView" type="id" />
+    <item name="distanceTextView" type="id" />
+    <item name="typeTextView" type="id" />
+    <item name="userTextView" type="id" />
+    <item name="idTextView" type="id" />
+    <item name="editTextId" type="id" />
+    <item name="editTextNoteDeFrais" type="id" />
+    <item name="editTextDistance" type="id" />
+    <item name="editTextMontant" type="id" />
+    <item name="editTextDate" type="id" />
+    <item name="editTextInvites" type="id" />
+    <item name="dejeunerButton" type="id" />
+    <item name="herbergementButton" type="id" />
+    <item name="invitesButton" type="id" />
+    <item name="notesDeFraisButton" type="id" />
+    <item name="noteDeFraisButton" type="id" />
+    <item name="hebergementButton" type="id" />
+</resources>

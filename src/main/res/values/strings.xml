@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FormationApp</string>
+    <string name="username_hint">Email</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="login_button_text">Se Connecter</string>
+    <string name="email_hint">email</string>
+    <string name="password">Mot de passe </string>
+    <string name="nom">Nom </string>
+    <string name="prenom">Prenom </string>
+    <string name="register">Enregistrer </string>
+    <string name="update">Mise à jour </string>
+    <string name="email">Email</string>
+
+</resources>
